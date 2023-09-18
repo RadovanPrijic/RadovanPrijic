@@ -4,7 +4,7 @@ Hi 👋, my name is Radovan!
 Junior Software Engineer
 ------------------------
 
-I'm a final year student at the School of Computing, Belgrade, studying to acquire a degree in computer science. I love tackling interesting real-world problems with the use of latest software technology.
+I'm a final year student at the School of Computing, in Belgrade, Serbia, studying to acquire a degree in computer science. I love tackling interesting real-world problems with the use of latest software technology.
 
 *   🌍  I'm based in Belgrade, Serbia
 *   ✉️  You can contact me at [radovanprijic7@gmail.com](mailto:radovanprijic7@gmail.com)
