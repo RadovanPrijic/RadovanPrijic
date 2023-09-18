@@ -1,4 +1,4 @@
-Hi 👋 My name is Radovan!
+Hi 👋, my name is Radovan!
 ========================
 
 Junior Software Engineer
